@@ -4,21 +4,22 @@
 #include <string>
 #include <unordered_map>
 #include <vector>
+using namespace std;
 
 struct Edge {
-    std::string destination;
+    string destination;
     int distance;
 };
 
 struct CampusLocation {
-    std::string name;
+    string name;
     int x;
     int y;
 };
 
 struct PathResult {
     int distance;
-    std::vector<std::string> path;
+    vector<std::string> path;
 };
 
 #endif 
