@@ -19,7 +19,7 @@ struct CampusLocation {
 
 struct PathResult {
     int distance;
-    vector<std::string> path;
+    vector<string> path;
 };
 
 #endif 
