@@ -1,3 +1,10 @@
+*.exe
+*.out
+
+
+build/
+*.exe
+
 # Prerequisites
 *.d
 
@@ -29,6 +36,7 @@
 # Executables
 *.exe
 *.out
+*.class
 *.app
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#C++
