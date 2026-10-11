@@ -52,6 +52,29 @@ Campus Navigation System — DSA Course Project
                                               Show route, distance, and intermediate locations
                                               
 
+**4. Project Structure**
+
+```text
+PathNavigationSystem/
+├── .vscode/                  # VS Code build tasks
+├── build/                    # Generated executable and build output (ignored by Git)
+├── Docs/                     # Project documentation
+├── include/
+│   ├── algorithms/           # Public interfaces for BFS, DFS, and Dijkstra
+│   ├── graph/                # Campus graph and walkway interfaces
+│   ├── models/               # Campus locations, edges, and route result types
+│   └── services/             # Location and route management interfaces
+├── Resources/                # Campus map or other project data
+├── src/
+│   ├── algorithms/           # Graph algorithm implementations
+│   ├── graph/                # Campus graph implementations
+│   ├── services/             # Location and route management implementations
+│   └── main.cpp              # Application entry point and terminal menu
+└── tests/                    # Automated tests
+```
+
+Keep declarations in `include/` and their implementations in the corresponding `src/` subdirectories. The terminal menu and input/output can live in `src/main.cpp` for now; a separate UI module is unnecessary. `include/models/CampusMap.h` currently defines the location, edge, and route-result data types; feature-specific modules can be added as the project grows.
+
 **5. Basic Working**
    
 1. The user selects a starting location and destination.

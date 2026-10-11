@@ -4,7 +4,7 @@
         {
             "label": "Build Path Navigation System",
             "type": "shell",
-            "command": "if not exist build mkdir build && g++ main.cpp -Iinclude -o build\\PathNavigationSystem.exe",
+            "command": "if not exist build mkdir build && g++ src\\main.cpp -Iinclude -o build\\PathNavigationSystem.exe",
             "options": {
                 "cwd": "${workspaceFolder}",
                 "shell": {
