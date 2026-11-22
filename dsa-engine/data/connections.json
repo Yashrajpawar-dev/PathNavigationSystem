@@ -1,0 +1,176 @@
+{
+  "campus": "VIT Pune Bibwewadi",
+  "note": "Walking connections between campus locations. Distances in metres are APPROXIMATE straight-line estimates. Actual walking distances depend on exact path geometry. Mark verified_distance=true only when confirmed by on-site measurement.",
+  "connections": [
+    {
+      "from_id": 0, "to_id": 13, "distance_m": 50, "path_type": "paved_road",
+      "verified_distance": false, "description": "Main Gate to Parking Area",
+      "blocked": false
+    },
+    {
+      "from_id": 0, "to_id": 1, "distance_m": 120, "path_type": "paved_path",
+      "verified_distance": false, "description": "Main Gate to Admin Block",
+      "blocked": false
+    },
+    {
+      "from_id": 0, "to_id": 18, "distance_m": 90, "path_type": "paved_path",
+      "verified_distance": false, "description": "Main Gate to Medical Centre",
+      "blocked": false
+    },
+    {
+      "from_id": 13, "to_id": 1, "distance_m": 80, "path_type": "paved_path",
+      "verified_distance": false, "description": "Parking to Admin Block",
+      "blocked": false
+    },
+    {
+      "from_id": 1, "to_id": 2, "distance_m": 100, "path_type": "paved_path",
+      "verified_distance": false, "description": "Admin Block to A-Block",
+      "blocked": false
+    },
+    {
+      "from_id": 1, "to_id": 9, "distance_m": 150, "path_type": "paved_path",
+      "verified_distance": false, "description": "Admin Block to Canteen",
+      "blocked": false
+    },
+    {
+      "from_id": 1, "to_id": 8, "distance_m": 130, "path_type": "paved_path",
+      "verified_distance": false, "description": "Admin Block to Library",
+      "blocked": false
+    },
+    {
+      "from_id": 18, "to_id": 9, "distance_m": 100, "path_type": "paved_path",
+      "verified_distance": false, "description": "Medical Centre to Canteen",
+      "blocked": false
+    },
+    {
+      "from_id": 2, "to_id": 3, "distance_m": 80, "path_type": "corridor",
+      "verified_distance": false, "description": "A-Block to CE Department",
+      "blocked": false
+    },
+    {
+      "from_id": 2, "to_id": 6, "distance_m": 70, "path_type": "corridor",
+      "verified_distance": false, "description": "A-Block to Mech Department",
+      "blocked": false
+    },
+    {
+      "from_id": 2, "to_id": 8, "distance_m": 60, "path_type": "paved_path",
+      "verified_distance": false, "description": "A-Block to Library",
+      "blocked": false
+    },
+    {
+      "from_id": 2, "to_id": 10, "distance_m": 180, "path_type": "paved_path",
+      "verified_distance": false, "description": "A-Block to Auditorium",
+      "blocked": false
+    },
+    {
+      "from_id": 3, "to_id": 4, "distance_m": 50, "path_type": "corridor",
+      "verified_distance": false, "description": "CE Department to IT Department",
+      "blocked": false
+    },
+    {
+      "from_id": 3, "to_id": 11, "distance_m": 90, "path_type": "corridor",
+      "verified_distance": false, "description": "CE Department to Computer Labs",
+      "blocked": false
+    },
+    {
+      "from_id": 3, "to_id": 5, "distance_m": 100, "path_type": "corridor",
+      "verified_distance": false, "description": "CE Department to E&TC Department",
+      "blocked": false
+    },
+    {
+      "from_id": 4, "to_id": 11, "distance_m": 60, "path_type": "corridor",
+      "verified_distance": false, "description": "IT Department to Computer Labs",
+      "blocked": false
+    },
+    {
+      "from_id": 4, "to_id": 7, "distance_m": 120, "path_type": "paved_path",
+      "verified_distance": false, "description": "IT Department to Civil Dept",
+      "blocked": false
+    },
+    {
+      "from_id": 5, "to_id": 15, "distance_m": 80, "path_type": "paved_path",
+      "verified_distance": false, "description": "E&TC to Research & Innovation Centre",
+      "blocked": false
+    },
+    {
+      "from_id": 5, "to_id": 10, "distance_m": 120, "path_type": "paved_path",
+      "verified_distance": false, "description": "E&TC to Auditorium",
+      "blocked": false
+    },
+    {
+      "from_id": 6, "to_id": 14, "distance_m": 110, "path_type": "paved_path",
+      "verified_distance": false, "description": "Mech Dept to Workshop",
+      "blocked": false
+    },
+    {
+      "from_id": 6, "to_id": 12, "distance_m": 200, "path_type": "paved_path",
+      "verified_distance": false, "description": "Mech Dept to Sports Complex",
+      "blocked": false
+    },
+    {
+      "from_id": 7, "to_id": 14, "distance_m": 100, "path_type": "paved_path",
+      "verified_distance": false, "description": "Civil Dept to Workshop",
+      "blocked": false
+    },
+    {
+      "from_id": 8, "to_id": 9, "distance_m": 170, "path_type": "paved_path",
+      "verified_distance": false, "description": "Library to Canteen",
+      "blocked": false
+    },
+    {
+      "from_id": 9, "to_id": 18, "distance_m": 100, "path_type": "paved_path",
+      "verified_distance": false, "description": "Canteen to Medical Centre",
+      "blocked": false
+    },
+    {
+      "from_id": 10, "to_id": 15, "distance_m": 90, "path_type": "paved_path",
+      "verified_distance": false, "description": "Auditorium to R&I Centre",
+      "blocked": false
+    },
+    {
+      "from_id": 10, "to_id": 12, "distance_m": 150, "path_type": "paved_path",
+      "verified_distance": false, "description": "Auditorium to Sports Complex",
+      "blocked": false
+    },
+    {
+      "from_id": 11, "to_id": 15, "distance_m": 120, "path_type": "paved_path",
+      "verified_distance": false, "description": "Computer Labs to R&I Centre",
+      "blocked": false
+    },
+    {
+      "from_id": 12, "to_id": 16, "distance_m": 80, "path_type": "paved_path",
+      "verified_distance": false, "description": "Sports Complex to Boys Hostel",
+      "blocked": false
+    },
+    {
+      "from_id": 12, "to_id": 17, "distance_m": 120, "path_type": "paved_path",
+      "verified_distance": false, "description": "Sports Complex to Girls Hostel",
+      "blocked": false
+    },
+    {
+      "from_id": 15, "to_id": 16, "distance_m": 100, "path_type": "paved_path",
+      "verified_distance": false, "description": "R&I Centre to Boys Hostel",
+      "blocked": false
+    },
+    {
+      "from_id": 15, "to_id": 19, "distance_m": 80, "path_type": "paved_path",
+      "verified_distance": false, "description": "R&I Centre to Faculty Block",
+      "blocked": false
+    },
+    {
+      "from_id": 16, "to_id": 19, "distance_m": 90, "path_type": "paved_path",
+      "verified_distance": false, "description": "Boys Hostel to Faculty Block",
+      "blocked": false
+    },
+    {
+      "from_id": 17, "to_id": 12, "distance_m": 120, "path_type": "paved_path",
+      "verified_distance": false, "description": "Girls Hostel to Sports Complex",
+      "blocked": false
+    },
+    {
+      "from_id": 14, "to_id": 11, "distance_m": 130, "path_type": "paved_path",
+      "verified_distance": false, "description": "Workshop to Computer Labs",
+      "blocked": false
+    }
+  ]
+}
