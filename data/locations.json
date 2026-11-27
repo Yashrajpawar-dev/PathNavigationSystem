@@ -1,0 +1,231 @@
+{
+  "campus": "Vishwakarma Institute of Technology, Bibwewadi, Pune",
+  "address": "666, Upper Indira Nagar, Bibwewadi, Pune, Maharashtra 411037, India",
+  "campus_center": {
+    "lat": 18.4643,
+    "lon": 73.8684
+  },
+  "note": "Building coordinates are approximate, derived from OpenStreetMap data for the VIT Bibwewadi campus area. Marked as APPROXIMATE until verified with official campus survey data.",
+  "locations": [
+    {
+      "id": 0,
+      "name": "Main Gate (Entry/Exit)",
+      "short_name": "Main Gate",
+      "category": "Gate",
+      "lat": 18.4631,
+      "lon": 73.8676,
+      "accuracy": "APPROXIMATE",
+      "description": "Primary entrance and exit of VIT Pune Bibwewadi campus. Located on the main road.",
+      "source": "OpenStreetMap campus boundary approximation"
+    },
+    {
+      "id": 1,
+      "name": "Administrative Block",
+      "short_name": "Admin Block",
+      "category": "Administration",
+      "lat": 18.4638,
+      "lon": 73.8680,
+      "accuracy": "APPROXIMATE",
+      "description": "Main administrative offices including principal's office, registrar, and examination section.",
+      "source": "VIT Pune official website campus map approximation"
+    },
+    {
+      "id": 2,
+      "name": "Main Building (A-Block)",
+      "short_name": "A-Block",
+      "category": "Academic",
+      "lat": 18.4645,
+      "lon": 73.8682,
+      "accuracy": "APPROXIMATE",
+      "description": "Central academic building housing multiple departments and lecture halls.",
+      "source": "OpenStreetMap + VIT Pune campus layout approximation"
+    },
+    {
+      "id": 3,
+      "name": "Computer Engineering Department",
+      "short_name": "CE Dept",
+      "category": "Department",
+      "lat": 18.4648,
+      "lon": 73.8686,
+      "accuracy": "APPROXIMATE",
+      "description": "Computer Engineering department with laboratories, faculty cabins and lecture rooms.",
+      "source": "VIT Pune department listing approximation"
+    },
+    {
+      "id": 4,
+      "name": "Information Technology Department",
+      "short_name": "IT Dept",
+      "category": "Department",
+      "lat": 18.4650,
+      "lon": 73.8689,
+      "accuracy": "APPROXIMATE",
+      "description": "Information Technology department.",
+      "source": "VIT Pune department listing approximation"
+    },
+    {
+      "id": 5,
+      "name": "Electronics & Telecommunication Dept",
+      "short_name": "E&TC Dept",
+      "category": "Department",
+      "lat": 18.4652,
+      "lon": 73.8683,
+      "accuracy": "APPROXIMATE",
+      "description": "Electronics and Telecommunication Engineering department.",
+      "source": "VIT Pune department listing approximation"
+    },
+    {
+      "id": 6,
+      "name": "Mechanical Engineering Department",
+      "short_name": "Mech Dept",
+      "category": "Department",
+      "lat": 18.4647,
+      "lon": 73.8678,
+      "accuracy": "APPROXIMATE",
+      "description": "Mechanical Engineering department with workshops and labs.",
+      "source": "VIT Pune department listing approximation"
+    },
+    {
+      "id": 7,
+      "name": "Civil Engineering Department",
+      "short_name": "Civil Dept",
+      "category": "Department",
+      "lat": 18.4644,
+      "lon": 73.8690,
+      "accuracy": "APPROXIMATE",
+      "description": "Civil Engineering department.",
+      "source": "VIT Pune department listing approximation"
+    },
+    {
+      "id": 8,
+      "name": "Library",
+      "short_name": "Library",
+      "category": "Library",
+      "lat": 18.4642,
+      "lon": 73.8685,
+      "accuracy": "APPROXIMATE",
+      "description": "Central library with digital resources, reading rooms, and book stacks.",
+      "source": "VIT Pune official website facility listing approximation"
+    },
+    {
+      "id": 9,
+      "name": "Canteen / Food Court",
+      "short_name": "Canteen",
+      "category": "Facility",
+      "lat": 18.4636,
+      "lon": 73.8688,
+      "accuracy": "APPROXIMATE",
+      "description": "Main campus canteen providing meals and refreshments.",
+      "source": "Student facility listing approximation"
+    },
+    {
+      "id": 10,
+      "name": "Auditorium",
+      "short_name": "Auditorium",
+      "category": "Facility",
+      "lat": 18.4655,
+      "lon": 73.8681,
+      "accuracy": "APPROXIMATE",
+      "description": "Main auditorium used for convocations, seminars, and cultural events.",
+      "source": "VIT Pune facility listing approximation"
+    },
+    {
+      "id": 11,
+      "name": "Computer Lab Complex",
+      "short_name": "Comp Labs",
+      "category": "Laboratory",
+      "lat": 18.4649,
+      "lon": 73.8692,
+      "accuracy": "APPROXIMATE",
+      "description": "Central computer laboratories for practical sessions.",
+      "source": "VIT Pune facility approximation"
+    },
+    {
+      "id": 12,
+      "name": "Sports Ground & Gymnasium",
+      "short_name": "Sports Complex",
+      "category": "Sports",
+      "lat": 18.4660,
+      "lon": 73.8678,
+      "accuracy": "APPROXIMATE",
+      "description": "Sports ground including cricket ground, basketball court, and gymnasium.",
+      "source": "OpenStreetMap campus boundary approximation"
+    },
+    {
+      "id": 13,
+      "name": "Parking Area (Main)",
+      "short_name": "Parking",
+      "category": "Parking",
+      "lat": 18.4633,
+      "lon": 73.8679,
+      "accuracy": "APPROXIMATE",
+      "description": "Main vehicle parking area near the main gate.",
+      "source": "OpenStreetMap approximation"
+    },
+    {
+      "id": 14,
+      "name": "Workshop & Manufacturing Lab",
+      "short_name": "Workshop",
+      "category": "Laboratory",
+      "lat": 18.4645,
+      "lon": 73.8695,
+      "accuracy": "APPROXIMATE",
+      "description": "Mechanical workshop and manufacturing engineering laboratory.",
+      "source": "VIT Pune facility listing approximation"
+    },
+    {
+      "id": 15,
+      "name": "Research & Innovation Centre",
+      "short_name": "R&I Centre",
+      "category": "Research",
+      "lat": 18.4657,
+      "lon": 73.8686,
+      "accuracy": "APPROXIMATE",
+      "description": "Centre for research activities and innovation projects.",
+      "source": "VIT Pune official website approximation"
+    },
+    {
+      "id": 16,
+      "name": "Boys Hostel",
+      "short_name": "Boys Hostel",
+      "category": "Hostel",
+      "lat": 18.4663,
+      "lon": 73.8690,
+      "accuracy": "APPROXIMATE",
+      "description": "On-campus boys hostel accommodation.",
+      "source": "VIT Pune facility listing approximation"
+    },
+    {
+      "id": 17,
+      "name": "Girls Hostel",
+      "short_name": "Girls Hostel",
+      "category": "Hostel",
+      "lat": 18.4661,
+      "lon": 73.8673,
+      "accuracy": "APPROXIMATE",
+      "description": "On-campus girls hostel accommodation.",
+      "source": "VIT Pune facility listing approximation"
+    },
+    {
+      "id": 18,
+      "name": "Medical Centre",
+      "short_name": "Medical",
+      "category": "Health",
+      "lat": 18.4635,
+      "lon": 73.8683,
+      "accuracy": "APPROXIMATE",
+      "description": "Campus health centre providing first-aid and medical assistance.",
+      "source": "VIT Pune facility listing approximation"
+    },
+    {
+      "id": 19,
+      "name": "Staff Quarters / Faculty Block",
+      "short_name": "Faculty Block",
+      "category": "Faculty",
+      "lat": 18.4658,
+      "lon": 73.8694,
+      "accuracy": "APPROXIMATE",
+      "description": "Faculty offices and staff quarters.",
+      "source": "VIT Pune campus approximation"
+    }
+  ]
+}
